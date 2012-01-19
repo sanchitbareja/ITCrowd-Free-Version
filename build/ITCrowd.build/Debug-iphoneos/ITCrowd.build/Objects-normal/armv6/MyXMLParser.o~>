@@ -1,0 +1,10 @@
+/Users/sanchitbareja/Documents/ITCrowd/Classes/MyXMLParser.m: In function '-[MyXMLParser parse:]':
+/Users/sanchitbareja/Documents/ITCrowd/Classes/MyXMLParser.m:19: error: 'currentElement' undeclared (first use in this function)
+/Users/sanchitbareja/Documents/ITCrowd/Classes/MyXMLParser.m:19: error: (Each undeclared identifier is reported only once
+/Users/sanchitbareja/Documents/ITCrowd/Classes/MyXMLParser.m:19: error: for each function it appears in.)
+/Users/sanchitbareja/Documents/ITCrowd/Classes/MyXMLParser.m: In function '-[MyXMLParser parser:didStartElement:namespaceURI:qualifiedName:attributes:]':
+/Users/sanchitbareja/Documents/ITCrowd/Classes/MyXMLParser.m:32: error: 'currentElement' undeclared (first use in this function)
+/Users/sanchitbareja/Documents/ITCrowd/Classes/MyXMLParser.m: In function '-[MyXMLParser parser:foundCharacters:]':
+/Users/sanchitbareja/Documents/ITCrowd/Classes/MyXMLParser.m:49: error: 'currentElement' undeclared (first use in this function)
+/Users/sanchitbareja/Documents/ITCrowd/Classes/MyXMLParser.m: In function '-[MyXMLParser dealloc]':
+/Users/sanchitbareja/Documents/ITCrowd/Classes/MyXMLParser.m:62: error: 'currentElement' undeclared (first use in this function)

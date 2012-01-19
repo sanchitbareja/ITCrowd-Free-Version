@@ -1,0 +1,1391 @@
+TITCrowd
+v7
+r0
+t322680798.359573
+cCheck dependencies
+cProcessInfoPlistFile /Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/ITCrowd.app/Info.plist ITCrowd-Info.plist
+cCompileXIB /Users/sanchitbareja/Documents/ITCrowd/MainWindow.xib
+cCpResource build/Debug-iphonesimulator/ITCrowd.app/eateries.png eateries.png
+cCpResource build/Debug-iphonesimulator/ITCrowd.app/flyers.png flyers.png
+cCpResource build/Debug-iphonesimulator/ITCrowd.app/maps.png maps.png
+cCpResource build/Debug-iphonesimulator/ITCrowd.app/review.png review.png
+cCpResource build/Debug-iphonesimulator/ITCrowd.app/upload.png upload.png
+cCpResource build/Debug-iphonesimulator/ITCrowd.app/dollar.png "../../Desktop/ITCrowd Images/dollar.png"
+cCpResource build/Debug-iphonesimulator/ITCrowd.app/advertising.png advertising.png
+cCpResource build/Debug-iphonesimulator/ITCrowd.app/ITCrowdIcon.jpg ITCrowdIcon.jpg
+cCpResource build/Debug-iphonesimulator/ITCrowd.app/ITCrowdLaunchImage.jpg ITCrowdLaunchImage.jpg
+cCpResource build/Debug-iphonesimulator/ITCrowd.app/ads_icon_black_small.png ads_icon_black_small.png
+cCpResource build/Debug-iphonesimulator/ITCrowd.app/info_icon_black_glossy_small.png info_icon_black_glossy_small.png
+cCpResource build/Debug-iphonesimulator/ITCrowd.app/navigation_icon_black_small.png navigation_icon_black_small.png
+cCpResource build/Debug-iphonesimulator/ITCrowd.app/InfoBanner.jpg InfoBanner.jpg
+cProcessPCH /var/folders/oQ/oQspy2pnE4WrvHOIq2Su5k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ITCrowd_Prefix-aeddrpdklnuxafcmgjrqahrgianf/ITCrowd_Prefix.pch.gch ITCrowd_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/main.o /Users/sanchitbareja/Documents/ITCrowd/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/ITCrowdAppDelegate.o /Users/sanchitbareja/Documents/ITCrowd/Classes/ITCrowdAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/UploadFlyersViewController.o /Users/sanchitbareja/Documents/ITCrowd/Classes/UploadFlyersViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/AboutUsController.o /Users/sanchitbareja/Documents/ITCrowd/Classes/AboutUsController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/ReviewViewController.o /Users/sanchitbareja/Documents/ITCrowd/Classes/ReviewViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/TourGuideViewController.o /Users/sanchitbareja/Documents/ITCrowd/Classes/TourGuideViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/EateriesViewController.o /Users/sanchitbareja/Documents/ITCrowd/Classes/EateriesViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/asyncimageview.o /Users/sanchitbareja/Documents/ITCrowd/Classes/asyncimageview.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/MyXMLParser.o /Users/sanchitbareja/Documents/ITCrowd/Classes/MyXMLParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/NSObject+SBJSON.o /Users/sanchitbareja/Documents/ITCrowd/JSON/NSObject+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/NSString+SBJSON.o /Users/sanchitbareja/Documents/ITCrowd/JSON/NSString+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/SBJSON.o /Users/sanchitbareja/Documents/ITCrowd/JSON/SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/SBJsonBase.o /Users/sanchitbareja/Documents/ITCrowd/JSON/SBJsonBase.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/SBJsonParser.o /Users/sanchitbareja/Documents/ITCrowd/JSON/SBJsonParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/SBJsonWriter.o /Users/sanchitbareja/Documents/ITCrowd/JSON/SBJsonWriter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/DetailViewController.o /Users/sanchitbareja/Documents/ITCrowd/Classes/DetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/adsAnnotation.o /Users/sanchitbareja/Documents/ITCrowd/Classes/adsAnnotation.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/adsCalloutView.o /Users/sanchitbareja/Documents/ITCrowd/Classes/adsCalloutView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/ITCrowd.app/ITCrowd normal i386
+cGenerateDSYMFile /Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/ITCrowd.app.dSYM /Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/ITCrowd.app/ITCrowd
+cTouch /Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/ITCrowd.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004CC127E80000000000074190
+t1287727080
+s475536
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004CC127DD00000000000001D0
+t1287727069
+s464
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MapKit.framework/Headers/MKAnnotation.h
+c000000004CC1294D000000000000027E
+t1287727437
+s638
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004CC1294D00000000000002FE
+t1287727437
+s766
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004CC12977000000000017E7F0
+t1287727479
+s1566704
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/sanchitbareja/Documents/ITCrowd/../../Desktop/ITCrowd Images/dollar.png
+c000000004D5E866A0000000000000522
+t1298040426
+s1314
+
+N/Users/sanchitbareja/Documents/ITCrowd/Classes/AboutUsController.h
+c000000004D8B242C000000000000013A
+t1300964396
+s314
+i<Foundation/Foundation.h>
+
+N/Users/sanchitbareja/Documents/ITCrowd/Classes/AboutUsController.m
+c000000004D8B7AF500000000000008E2
+t1300986613
+s2274
+i"AboutUsController.h"
+
+N/Users/sanchitbareja/Documents/ITCrowd/Classes/DetailViewController.h
+c000000004D8B56E80000000000000179
+t1300977384
+s377
+i<Foundation/Foundation.h>
+i"asyncimageview.h"
+
+N/Users/sanchitbareja/Documents/ITCrowd/Classes/DetailViewController.m
+c000000004D8B618900000000000003F8
+t1300980105
+s1016
+i"DetailViewController.h"
+i"asyncimageview.h"
+
+N/Users/sanchitbareja/Documents/ITCrowd/Classes/EateriesViewController.h
+c000000004D80AEB30000000000000426
+t1300278963
+s1062
+i<Foundation/Foundation.h>
+i<MapKit/MapKit.h>
+i<MapKit/MKAnnotation.h>
+i<CoreLocation/CoreLocation.h>
+i"asyncimageview.h"
+i"JSON.h"
+i"adsAnnotation.h"
+i"adsCalloutView.h"
+
+N/Users/sanchitbareja/Documents/ITCrowd/Classes/EateriesViewController.m
+c000000004D8A15DA0000000000002A7D
+t1300895194
+s10877
+i"EateriesViewController.h"
+i<MapKit/MapKit.h>
+
+N/Users/sanchitbareja/Documents/ITCrowd/Classes/FlyersViewController.h
+c000000004D5E6B0400000000000000EF
+t1298033412
+s239
+i<Foundation/Foundation.h>
+
+N/Users/sanchitbareja/Documents/ITCrowd/Classes/FlyersViewController.m
+c000000004D7F25EA000000000000028D
+t1300178410
+s653
+i"FlyersViewController.h"
+
+N/Users/sanchitbareja/Documents/ITCrowd/Classes/ITCrowdAppDelegate.h
+c000000004D686F560000000000000168
+t1298689878
+s360
+i<UIKit/UIKit.h>
+
+N/Users/sanchitbareja/Documents/ITCrowd/Classes/ITCrowdAppDelegate.m
+c000000004D8B44B70000000000001229
+t1300972727
+s4649
+i"ITCrowdAppDelegate.h"
+i"UploadFlyersViewController.h"
+i"ReviewViewController.h"
+i"TourGuideViewController.h"
+i"EateriesViewController.h"
+i"AboutUsController.h"
+
+N/Users/sanchitbareja/Documents/ITCrowd/Classes/MyXMLParser.h
+c000000004D8B758C0000000000000190
+t1300985228
+s400
+i<Foundation/Foundation.h>
+
+N/Users/sanchitbareja/Documents/ITCrowd/Classes/MyXMLParser.m
+c000000004D8B758900000000000005D9
+t1300985225
+s1497
+i"MyXMLParser.h"
+
+N/Users/sanchitbareja/Documents/ITCrowd/Classes/ReviewViewController.h
+c000000004D8B6B200000000000000190
+t1300982560
+s400
+i<Foundation/Foundation.h>
+
+N/Users/sanchitbareja/Documents/ITCrowd/Classes/ReviewViewController.m
+c000000004D8B6BDE0000000000000DD5
+t1300982750
+s3541
+i"ReviewViewController.h"
+
+N/Users/sanchitbareja/Documents/ITCrowd/Classes/TourGuideViewController.h
+c000000004D7C2DAC000000000000023D
+t1299983788
+s573
+i<Foundation/Foundation.h>
+i"asyncimageview.h"
+i"MyXMLParser.h"
+i"DetailViewController.h"
+
+N/Users/sanchitbareja/Documents/ITCrowd/Classes/TourGuideViewController.m
+c000000004D89E2A200000000000011A3
+t1300882082
+s4515
+i"TourGuideViewController.h"
+
+N/Users/sanchitbareja/Documents/ITCrowd/Classes/UploadFlyersViewController.h
+c000000004D88D38C00000000000004A1
+t1300812684
+s1185
+i<Foundation/Foundation.h>
+i"asyncimageview.h"
+i"MyXMLParser.h"
+i"DetailViewController.h"
+
+N/Users/sanchitbareja/Documents/ITCrowd/Classes/UploadFlyersViewController.m
+c000000004D8B53E80000000000003E31
+t1300976616
+s15921
+i"UploadFlyersViewController.h"
+
+N/Users/sanchitbareja/Documents/ITCrowd/Classes/adsAnnotation.h
+c000000004D8A120A00000000000002EC
+t1300894218
+s748
+i<UIKit/UIKit.h>
+i<CoreLocation/CoreLocation.h>
+i<MapKit/MapKit.h>
+
+N/Users/sanchitbareja/Documents/ITCrowd/Classes/adsAnnotation.m
+c000000004D8A12160000000000000218
+t1300894230
+s536
+i"adsAnnotation.h"
+
+N/Users/sanchitbareja/Documents/ITCrowd/Classes/adsAnnotationView.h
+c000000004D7D91B50000000000000256
+t1300074933
+s598
+i<UIKit/UIKit.h>
+i<CoreLocation/CoreLocation.h>
+i<MapKit/MapKit.h>
+
+N/Users/sanchitbareja/Documents/ITCrowd/Classes/adsAnnotationView.m
+c000000004D7DBF0400000000000001A9
+t1300086532
+s425
+i"adsAnnotationView.h"
+
+N/Users/sanchitbareja/Documents/ITCrowd/Classes/adsCalloutView.h
+c000000004D7F87AA000000000000023F
+t1300203434
+s575
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+
+N/Users/sanchitbareja/Documents/ITCrowd/Classes/adsCalloutView.m
+c000000004D7F87130000000000000A70
+t1300203283
+s2672
+i"adsCalloutView.h"
+
+N/Users/sanchitbareja/Documents/ITCrowd/Classes/asyncimageview.h
+c000000004D75BA5B00000000000003DE
+t1299561051
+s990
+i<UIKit/UIKit.h>
+
+N/Users/sanchitbareja/Documents/ITCrowd/Classes/asyncimageview.m
+c000000004D8B805D0000000000001273
+t1300987997
+s4723
+i"AsyncImageView.h"
+
+N/Users/sanchitbareja/Documents/ITCrowd/Classes/eateriesViewController.h
+c000000004D5D0BF500000000000000EB
+t1297943541
+s235
+i<Foundation/Foundation.h>
+
+N/Users/sanchitbareja/Documents/ITCrowd/Classes/eateriesViewController.m
+c000000004D5D0BF500000000000000E1
+t1297943541
+s225
+i"eateriesViewController.h"
+
+N/Users/sanchitbareja/Documents/ITCrowd/Classes/flyersViewController.h
+c000000004D5D0B7300000000000000E7
+t1297943411
+s231
+i<Foundation/Foundation.h>
+
+N/Users/sanchitbareja/Documents/ITCrowd/Classes/flyersViewController.m
+c000000004D5D0B7300000000000000DB
+t1297943411
+s219
+i"flyersViewController.h"
+
+N/Users/sanchitbareja/Documents/ITCrowd/Classes/reviewViewController.h
+c000000004D5D0BC500000000000000E7
+t1297943493
+s231
+i<Foundation/Foundation.h>
+
+N/Users/sanchitbareja/Documents/ITCrowd/Classes/reviewViewController.m
+c000000004D5D0BC500000000000000DB
+t1297943493
+s219
+i"reviewViewController.h"
+
+N/Users/sanchitbareja/Documents/ITCrowd/Classes/tourGuideViewController.h
+c000000004D5D0BDF00000000000000ED
+t1297943519
+s237
+i<Foundation/Foundation.h>
+
+N/Users/sanchitbareja/Documents/ITCrowd/Classes/tourGuideViewController.m
+c000000004D5D0BDF00000000000000E4
+t1297943519
+s228
+i"tourGuideViewController.h"
+
+N/Users/sanchitbareja/Documents/ITCrowd/Classes/uploadFlyersViewController.h
+c000000004D5D0B6500000000000000F3
+t1297943397
+s243
+i<Foundation/Foundation.h>
+
+N/Users/sanchitbareja/Documents/ITCrowd/Classes/uploadFlyersViewController.m
+c000000004D5D0B6500000000000000ED
+t1297943397
+s237
+i"uploadFlyersViewController.h"
+
+N/Users/sanchitbareja/Documents/ITCrowd/ITCrowdIcon.jpg
+c000000004D89BB5E000000000000DDCB
+t1300872030
+s56779
+
+N/Users/sanchitbareja/Documents/ITCrowd/ITCrowdLaunchImage.jpg
+c000000004D89B9FF000000000001C893
+t1300871679
+s116883
+
+N/Users/sanchitbareja/Documents/ITCrowd/ITCrowd_Prefix.pch
+c000000004D5D003400000000000000B7
+t1297940532
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sanchitbareja/Documents/ITCrowd/Info banner.jpg
+c000000004D8AAF34000000000004CB66
+t1300934452
+s314214
+
+N/Users/sanchitbareja/Documents/ITCrowd/InfoBanner.jpg
+c000000004D8B23CA0000000000062620
+t1300964298
+s402976
+
+N/Users/sanchitbareja/Documents/ITCrowd/JSON/JSON.h
+c000000004B66F9CA00000000000008F9
+t1265039818
+s2297
+i"SBJSON.h"
+i"NSObject+SBJSON.h"
+i"NSString+SBJSON.h"
+
+N/Users/sanchitbareja/Documents/ITCrowd/JSON/NSObject+SBJSON.h
+c000000004B66F9CA0000000000000A01
+t1265039818
+s2561
+i<Foundation/Foundation.h>
+
+N/Users/sanchitbareja/Documents/ITCrowd/JSON/NSObject+SBJSON.m
+c000000004B66F9CA000000000000089E
+t1265039818
+s2206
+i"NSObject+SBJSON.h"
+i"SBJsonWriter.h"
+
+N/Users/sanchitbareja/Documents/ITCrowd/JSON/NSString+SBJSON.h
+c000000004B66F9CA0000000000000916
+t1265039818
+s2326
+i<Foundation/Foundation.h>
+
+N/Users/sanchitbareja/Documents/ITCrowd/JSON/NSString+SBJSON.m
+c000000004B66F9CA000000000000087D
+t1265039818
+s2173
+i"NSString+SBJSON.h"
+i"SBJsonParser.h"
+
+N/Users/sanchitbareja/Documents/ITCrowd/JSON/SBJSON.h
+c000000004B66F9CA0000000000000AED
+t1265039818
+s2797
+i<Foundation/Foundation.h>
+i"SBJsonParser.h"
+i"SBJsonWriter.h"
+
+N/Users/sanchitbareja/Documents/ITCrowd/JSON/SBJSON.m
+c000000004B66F9CA0000000000001ABC
+t1265039818
+s6844
+i"SBJSON.h"
+
+N/Users/sanchitbareja/Documents/ITCrowd/JSON/SBJsonBase.h
+c000000004B66F9CA0000000000000B82
+t1265039818
+s2946
+i<Foundation/Foundation.h>
+
+N/Users/sanchitbareja/Documents/ITCrowd/JSON/SBJsonBase.m
+c000000004B66F9CA0000000000000AC1
+t1265039818
+s2753
+i"SBJsonBase.h"
+
+N/Users/sanchitbareja/Documents/ITCrowd/JSON/SBJsonParser.h
+c000000004B66F9CA0000000000000C0B
+t1265039818
+s3083
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/sanchitbareja/Documents/ITCrowd/JSON/SBJsonParser.m
+c000000004B66F9CA00000000000036CF
+t1265039818
+s14031
+i"SBJsonParser.h"
+
+N/Users/sanchitbareja/Documents/ITCrowd/JSON/SBJsonWriter.h
+c000000004B66F9CA0000000000001140
+t1265039818
+s4416
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/sanchitbareja/Documents/ITCrowd/JSON/SBJsonWriter.m
+c000000004B66F9CA0000000000001E83
+t1265039818
+s7811
+i"SBJsonWriter.h"
+
+N/Users/sanchitbareja/Documents/ITCrowd/MainWindow.xib
+c000000004D5D00340000000000002108
+t1297940532
+s8456
+
+N/Users/sanchitbareja/Documents/ITCrowd/ads_icon_black_small.png
+c000000004D89E21B0000000000000D5F
+t1300881947
+s3423
+
+N/Users/sanchitbareja/Documents/ITCrowd/advertising.png
+c000000004D7F89DB000000000000056A
+t1300203995
+s1386
+
+N/Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/ITCrowd.app
+t1300987998
+s918
+
+N/Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/ITCrowd.app.dSYM
+t1300987998
+s102
+
+N/Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/ITCrowd.app/ITCrowd
+t1300987998
+s142532
+
+N/Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/ITCrowd.app/ITCrowdIcon.jpg
+t1300888629
+s56779
+
+N/Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/ITCrowd.app/ITCrowdLaunchImage.jpg
+t1300888630
+s116883
+
+N/Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/ITCrowd.app/Info banner.jpg
+t2
+s0
+
+N/Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/ITCrowd.app/Info.plist
+t1300987840
+s835
+
+N/Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/ITCrowd.app/InfoBanner.jpg
+t1300977580
+s402976
+
+N/Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/ITCrowd.app/MainWindow.nib
+t1297941763
+s984
+
+N/Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/ITCrowd.app/PkgInfo
+t1300987840
+s8
+
+N/Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/ITCrowd.app/ads_icon_black_small.png
+t1300888629
+s3423
+
+N/Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/ITCrowd.app/advertising.png
+t1300290970
+s1386
+
+N/Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/ITCrowd.app/dollar.png
+t1298040447
+s1314
+
+N/Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/ITCrowd.app/eateries.nib
+t1298034563
+s764
+
+N/Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/ITCrowd.app/eateries.png
+t1298035246
+s1218
+
+N/Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/ITCrowd.app/flyers
+t2
+s0
+
+N/Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/ITCrowd.app/flyers.nib
+t1298034563
+s764
+
+N/Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/ITCrowd.app/flyers.png
+t1298039737
+s1295
+
+N/Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/ITCrowd.app/flyers.xid
+t2
+s0
+
+N/Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/ITCrowd.app/good-and-bad.jpg
+t2
+s0
+
+N/Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/ITCrowd.app/icon-journals-xl.png
+t2
+s0
+
+N/Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/ITCrowd.app/img_up_arrow.gif
+t2
+s0
+
+N/Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/ITCrowd.app/info_icon_black_glossy_small.png
+t1300888629
+s3287
+
+N/Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/ITCrowd.app/maps.gif
+t1298035246
+s498
+
+N/Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/ITCrowd.app/maps.png
+t1298039737
+s1552
+
+N/Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/ITCrowd.app/monotone_fork_spoon_eat_launch_restaurant_dinner.png
+t2
+s0
+
+N/Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/ITCrowd.app/navigation_icon_black_small.png
+t1300888629
+s3559
+
+N/Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/ITCrowd.app/rename.png
+t2
+s0
+
+N/Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/ITCrowd.app/review.jpg
+t1298035246
+s1554
+
+N/Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/ITCrowd.app/review.nib
+t1298034563
+s764
+
+N/Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/ITCrowd.app/review.png
+t1298036709
+s1063
+
+N/Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/ITCrowd.app/tourGuide.nib
+t1298034563
+s764
+
+N/Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/ITCrowd.app/upload.gif
+t1298035246
+s388
+
+N/Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/ITCrowd.app/upload.png
+t1298039737
+s1037
+
+N/Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/ITCrowd.app/uploadFlyers.nib
+t1298716251
+s764
+
+N/Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/ITCrowd.app/uploadFlyersView.nib
+t2
+s0
+
+N/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/AboutUsController.o
+t1300987841
+s47284
+
+N/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/DetailViewController.o
+t1300987841
+s44020
+
+N/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/EateriesViewController.o
+t1300931886
+s86940
+
+N/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/FlyersViewController.o
+t1300290971
+s38856
+
+N/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/ITCrowd.LinkFileList
+c000000004D89FC35000000000000095C
+t1300888629
+s2396
+
+N/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/ITCrowdAppDelegate.o
+t1300987841
+s62292
+
+N/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/MyXMLParser.o
+t1300987841
+s17276
+
+N/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/NSObject+SBJSON.o
+t1299478835
+s8284
+
+N/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/NSString+SBJSON.o
+t1299478835
+s8204
+
+N/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/ReviewViewController.o
+t1300987841
+s56204
+
+N/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/SBJSON.o
+t1299478835
+s20072
+
+N/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/SBJsonBase.o
+t1299478835
+s13204
+
+N/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/SBJsonParser.o
+t1299478835
+s35864
+
+N/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/SBJsonWriter.o
+t1299478835
+s24848
+
+N/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/TourGuideViewController.o
+t1300987841
+s58932
+
+N/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/UploadFlyersViewController.o
+t1300987841
+s103532
+
+N/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/adsAnnotation.o
+t1300931886
+s14276
+
+N/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/adsAnnotationView.o
+t2
+s0
+
+N/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/adsCalloutView.o
+t1300290972
+s45772
+
+N/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/asyncimageview.o
+t1300987998
+s55224
+
+N/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/eateriesViewController.o
+t2
+s0
+
+N/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/flyersViewController.o
+t2
+s0
+
+N/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/main.o
+t1300940241
+s6304
+
+N/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/reviewViewController.o
+t2
+s0
+
+N/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/tourGuideViewController.o
+t2
+s0
+
+N/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/uploadFlyersViewController.o
+t2
+s0
+
+N/Users/sanchitbareja/Documents/ITCrowd/eateries.png
+c000000004D5E71CD00000000000004C2
+t1298035149
+s1218
+
+N/Users/sanchitbareja/Documents/ITCrowd/eateries.xib
+c000000004D5E6F7A0000000000003ADF
+t1298034554
+s15071
+
+N/Users/sanchitbareja/Documents/ITCrowd/flyers
+c000000004D5E595E0000000000001609
+t1298028894
+s5641
+
+N/Users/sanchitbareja/Documents/ITCrowd/flyers.png
+c000000004D5E836B000000000000050F
+t1298039659
+s1295
+
+N/Users/sanchitbareja/Documents/ITCrowd/flyers.xib
+c000000004D5E6F380000000000003ADF
+t1298034488
+s15071
+
+N/Users/sanchitbareja/Documents/ITCrowd/flyers.xid
+c000000004D5E595E0000000000001609
+t1298028894
+s5641
+
+N/Users/sanchitbareja/Documents/ITCrowd/good-and-bad.jpg
+c000000004D5E6DA200000000000070CF
+t1298034082
+s28879
+
+N/Users/sanchitbareja/Documents/ITCrowd/icon-journals-xl.png
+c000000004D5E6DB80000000000002CE6
+t1298034104
+s11494
+
+N/Users/sanchitbareja/Documents/ITCrowd/img_up_arrow.gif
+c000000004D5E6DD3000000000000024C
+t1298034131
+s588
+
+N/Users/sanchitbareja/Documents/ITCrowd/info_icon_black_glossy_small.png
+c000000004D89E1FD0000000000000CD7
+t1300881917
+s3287
+
+N/Users/sanchitbareja/Documents/ITCrowd/main.m
+c000000004D8AC226000000000000015F
+t1300939302
+s351
+i<UIKit/UIKit.h>
+
+N/Users/sanchitbareja/Documents/ITCrowd/maps.gif
+c000000004D5E716500000000000001F2
+t1298035045
+s498
+
+N/Users/sanchitbareja/Documents/ITCrowd/maps.png
+c000000004D5E832C0000000000000610
+t1298039596
+s1552
+
+N/Users/sanchitbareja/Documents/ITCrowd/monotone_fork_spoon_eat_launch_restaurant_dinner.png
+c000000004D5E60CF00000000000002F0
+t1298030799
+s752
+
+N/Users/sanchitbareja/Documents/ITCrowd/navigation_icon_black_small.png
+c000000004D89E2410000000000000DE7
+t1300881985
+s3559
+
+N/Users/sanchitbareja/Documents/ITCrowd/rename.png
+c000000004D5E6DB80000000000002CE6
+t1298034104
+s11494
+
+N/Users/sanchitbareja/Documents/ITCrowd/review.jpg
+c000000004D5E718C0000000000000612
+t1298035084
+s1554
+
+N/Users/sanchitbareja/Documents/ITCrowd/review.png
+c000000004D5E76BB0000000000000427
+t1298036411
+s1063
+
+N/Users/sanchitbareja/Documents/ITCrowd/review.xib
+c000000004D5E6F460000000000003AD9
+t1298034502
+s15065
+
+N/Users/sanchitbareja/Documents/ITCrowd/tourGuide.xib
+c000000004D5E6F640000000000003AE2
+t1298034532
+s15074
+
+N/Users/sanchitbareja/Documents/ITCrowd/upload.gif
+c000000004D5E71780000000000000184
+t1298035064
+s388
+
+N/Users/sanchitbareja/Documents/ITCrowd/upload.png
+c000000004D5E839E000000000000040D
+t1298039710
+s1037
+
+N/Users/sanchitbareja/Documents/ITCrowd/uploadFlyers.xib
+c000000004D68D6580000000000003B67
+t1298716248
+s15207
+
+N/Users/sanchitbareja/Documents/ITCrowd/uploadFlyersView.xib
+c000000004D5E595E0000000000001609
+t1298028894
+s5641
+
+N/var/folders/oQ/oQspy2pnE4WrvHOIq2Su5k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ITCrowd_Prefix-aeddrpdklnuxafcmgjrqahrgianf/ITCrowd_Prefix.pch.gch
+t1297941764
+s15453392
+
+NITCrowd-Info.plist
+c000000004D8B7ACD00000000000004A5
+t1300986573
+s1189
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies322680798#322680798#0(0"0(0#1#0"8617719936#0"0#
+
+CCompileC build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/AboutUsController.o /Users/sanchitbareja/Documents/ITCrowd/Classes/AboutUsController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322680640.029915
+e322680641.161781
+r1
+xCompileC
+xbuild/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/AboutUsController.o
+x/Users/sanchitbareja/Documents/ITCrowd/Classes/AboutUsController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/sanchitbareja/Documents/ITCrowd/Classes/AboutUsController.m322680640#322680641#0(0"0(0#0#66"/Users/sanchitbareja/Documents/ITCrowd/Classes/AboutUsController.m8614584896#1948"    cd /Users/sanchitbareja/Documents/ITCrowd    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/ITCrowd-generated-files.hmap -I/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/ITCrowd-own-target-headers.hmap -I/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/ITCrowd-all-target-headers.hmap -iquote /Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/ITCrowd-project-headers.hmap -F/Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator -I/Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/include -I/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/DerivedSources/i386 -I/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/DerivedSources -include /var/folders/oQ/oQspy2pnE4WrvHOIq2Su5k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ITCrowd_Prefix-aeddrpdklnuxafcmgjrqahrgianf/ITCrowd_Prefix.pch -c /Users/sanchitbareja/Documents/ITCrowd/Classes/AboutUsController.m -o /Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/AboutUsController.o0#
+
+CCompileC build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/DetailViewController.o /Users/sanchitbareja/Documents/ITCrowd/Classes/DetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322680641.192036
+e322680641.285854
+r1
+xCompileC
+xbuild/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/DetailViewController.o
+x/Users/sanchitbareja/Documents/ITCrowd/Classes/DetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/sanchitbareja/Documents/ITCrowd/Classes/DetailViewController.m322680641#322680641#0(0"0(0#0#69"/Users/sanchitbareja/Documents/ITCrowd/Classes/DetailViewController.m8604316064#1954"    cd /Users/sanchitbareja/Documents/ITCrowd    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/ITCrowd-generated-files.hmap -I/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/ITCrowd-own-target-headers.hmap -I/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/ITCrowd-all-target-headers.hmap -iquote /Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/ITCrowd-project-headers.hmap -F/Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator -I/Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/include -I/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/DerivedSources/i386 -I/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/DerivedSources -include /var/folders/oQ/oQspy2pnE4WrvHOIq2Su5k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ITCrowd_Prefix-aeddrpdklnuxafcmgjrqahrgianf/ITCrowd_Prefix.pch -c /Users/sanchitbareja/Documents/ITCrowd/Classes/DetailViewController.m -o /Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/DetailViewController.o0#
+
+CCompileC build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/EateriesViewController.o /Users/sanchitbareja/Documents/ITCrowd/Classes/EateriesViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322624685.509458
+e322624686.324836
+r1
+xCompileC
+xbuild/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/EateriesViewController.o
+x/Users/sanchitbareja/Documents/ITCrowd/Classes/EateriesViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/sanchitbareja/Documents/ITCrowd/Classes/EateriesViewController.m: In function '-[EateriesViewController mapView:viewForAnnotation:]':
+o/Users/sanchitbareja/Documents/ITCrowd/Classes/EateriesViewController.m:161: warning: '-indexToLoad' not found in protocol(s)
+lSLF07#2@79"Compile /Users/sanchitbareja/Documents/ITCrowd/Classes/EateriesViewController.m322624685#322624686#0(267"/Users/sanchitbareja/Documents/ITCrowd/Classes/EateriesViewController.m: In function '-[EateriesViewController mapView:viewForAnnotation:]':/Users/sanchitbareja/Documents/ITCrowd/Classes/EateriesViewController.m:161: warning: '-indexToLoad' not found in protocol(s)1(22@39"'-indexToLoad' not found in protocol(s)322624686#141#126#0(6@71"/Users/sanchitbareja/Documents/ITCrowd/Classes/EateriesViewController.m322587994#161#0#161#0#28"'*' not found in protocol(s)0(0#0#71"/Users/sanchitbareja/Documents/ITCrowd/Classes/EateriesViewController.m8700924448#1958"    cd /Users/sanchitbareja/Documents/ITCrowd    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/ITCrowd-generated-files.hmap -I/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/ITCrowd-own-target-headers.hmap -I/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/ITCrowd-all-target-headers.hmap -iquote /Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/ITCrowd-project-headers.hmap -F/Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator -I/Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/include -I/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/DerivedSources/i386 -I/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/DerivedSources -include /var/folders/oQ/oQspy2pnE4WrvHOIq2Su5k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ITCrowd_Prefix-aeddrpdklnuxafcmgjrqahrgianf/ITCrowd_Prefix.pch -c /Users/sanchitbareja/Documents/ITCrowd/Classes/EateriesViewController.m -o /Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/EateriesViewController.o0#
+
+CCompileC build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/FlyersViewController.o /Users/sanchitbareja/Documents/ITCrowd/Classes/FlyersViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321983770.839595
+e321983771.942260
+r1
+xCompileC
+xbuild/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/FlyersViewController.o
+x/Users/sanchitbareja/Documents/ITCrowd/Classes/FlyersViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/sanchitbareja/Documents/ITCrowd/Classes/FlyersViewController.m321983770#321983771#0(0"0(0#0#69"/Users/sanchitbareja/Documents/ITCrowd/Classes/FlyersViewController.m8653259680#1954"    cd /Users/sanchitbareja/Documents/ITCrowd    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/ITCrowd-generated-files.hmap -I/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/ITCrowd-own-target-headers.hmap -I/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/ITCrowd-all-target-headers.hmap -iquote /Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/ITCrowd-project-headers.hmap -F/Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator -I/Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/include -I/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/DerivedSources/i386 -I/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/DerivedSources -include /var/folders/oQ/oQspy2pnE4WrvHOIq2Su5k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ITCrowd_Prefix-aeddrpdklnuxafcmgjrqahrgianf/ITCrowd_Prefix.pch -c /Users/sanchitbareja/Documents/ITCrowd/Classes/FlyersViewController.m -o /Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/FlyersViewController.o0#
+
+CCompileC build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/ITCrowdAppDelegate.o /Users/sanchitbareja/Documents/ITCrowd/Classes/ITCrowdAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322680640.027869
+e322680641.191161
+r1
+xCompileC
+xbuild/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/ITCrowdAppDelegate.o
+x/Users/sanchitbareja/Documents/ITCrowd/Classes/ITCrowdAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/sanchitbareja/Documents/ITCrowd/Classes/ITCrowdAppDelegate.m322680640#322680641#0(0"0(0#0#67"/Users/sanchitbareja/Documents/ITCrowd/Classes/ITCrowdAppDelegate.m8389754676633104384#1950"    cd /Users/sanchitbareja/Documents/ITCrowd    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/ITCrowd-generated-files.hmap -I/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/ITCrowd-own-target-headers.hmap -I/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/ITCrowd-all-target-headers.hmap -iquote /Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/ITCrowd-project-headers.hmap -F/Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator -I/Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/include -I/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/DerivedSources/i386 -I/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/DerivedSources -include /var/folders/oQ/oQspy2pnE4WrvHOIq2Su5k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ITCrowd_Prefix-aeddrpdklnuxafcmgjrqahrgianf/ITCrowd_Prefix.pch -c /Users/sanchitbareja/Documents/ITCrowd/Classes/ITCrowdAppDelegate.m -o /Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/ITCrowdAppDelegate.o0#
+
+CCompileC build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/MyXMLParser.o /Users/sanchitbareja/Documents/ITCrowd/Classes/MyXMLParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322680641.163540
+e322680641.272828
+r1
+xCompileC
+xbuild/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/MyXMLParser.o
+x/Users/sanchitbareja/Documents/ITCrowd/Classes/MyXMLParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/sanchitbareja/Documents/ITCrowd/Classes/MyXMLParser.m322680641#322680641#0(0"0(0#0#60"/Users/sanchitbareja/Documents/ITCrowd/Classes/MyXMLParser.m8610659424#1936"    cd /Users/sanchitbareja/Documents/ITCrowd    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/ITCrowd-generated-files.hmap -I/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/ITCrowd-own-target-headers.hmap -I/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/ITCrowd-all-target-headers.hmap -iquote /Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/ITCrowd-project-headers.hmap -F/Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator -I/Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/include -I/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/DerivedSources/i386 -I/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/DerivedSources -include /var/folders/oQ/oQspy2pnE4WrvHOIq2Su5k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ITCrowd_Prefix-aeddrpdklnuxafcmgjrqahrgianf/ITCrowd_Prefix.pch -c /Users/sanchitbareja/Documents/ITCrowd/Classes/MyXMLParser.m -o /Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/MyXMLParser.o0#
+
+CCompileC build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/NSObject+SBJSON.o /Users/sanchitbareja/Documents/ITCrowd/JSON/NSObject+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321171635.614321
+e321171635.699020
+r1
+xCompileC
+xbuild/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/NSObject+SBJSON.o
+x/Users/sanchitbareja/Documents/ITCrowd/JSON/NSObject+SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/sanchitbareja/Documents/ITCrowd/JSON/NSObject+SBJSON.m321171635#321171635#0(0"0(0#0#61"/Users/sanchitbareja/Documents/ITCrowd/JSON/NSObject+SBJSON.m8679842816#1941"    cd /Users/sanchitbareja/Documents/ITCrowd    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/ITCrowd-generated-files.hmap -I/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/ITCrowd-own-target-headers.hmap -I/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/ITCrowd-all-target-headers.hmap -iquote /Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/ITCrowd-project-headers.hmap -F/Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator -I/Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/include -I/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/DerivedSources/i386 -I/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/DerivedSources -include /var/folders/oQ/oQspy2pnE4WrvHOIq2Su5k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ITCrowd_Prefix-aeddrpdklnuxafcmgjrqahrgianf/ITCrowd_Prefix.pch -c /Users/sanchitbareja/Documents/ITCrowd/JSON/NSObject+SBJSON.m -o /Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/NSObject+SBJSON.o0#
+
+CCompileC build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/NSString+SBJSON.o /Users/sanchitbareja/Documents/ITCrowd/JSON/NSString+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321171635.624744
+e321171635.706070
+r1
+xCompileC
+xbuild/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/NSString+SBJSON.o
+x/Users/sanchitbareja/Documents/ITCrowd/JSON/NSString+SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/sanchitbareja/Documents/ITCrowd/JSON/NSString+SBJSON.m321171635#321171635#0(0"0(0#0#61"/Users/sanchitbareja/Documents/ITCrowd/JSON/NSString+SBJSON.m8678824224#1941"    cd /Users/sanchitbareja/Documents/ITCrowd    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/ITCrowd-generated-files.hmap -I/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/ITCrowd-own-target-headers.hmap -I/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/ITCrowd-all-target-headers.hmap -iquote /Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/ITCrowd-project-headers.hmap -F/Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator -I/Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/include -I/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/DerivedSources/i386 -I/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/DerivedSources -include /var/folders/oQ/oQspy2pnE4WrvHOIq2Su5k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ITCrowd_Prefix-aeddrpdklnuxafcmgjrqahrgianf/ITCrowd_Prefix.pch -c /Users/sanchitbareja/Documents/ITCrowd/JSON/NSString+SBJSON.m -o /Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/NSString+SBJSON.o0#
+
+CCompileC build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/ReviewViewController.o /Users/sanchitbareja/Documents/ITCrowd/Classes/ReviewViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322680640.031085
+e322680641.150995
+r1
+xCompileC
+xbuild/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/ReviewViewController.o
+x/Users/sanchitbareja/Documents/ITCrowd/Classes/ReviewViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/sanchitbareja/Documents/ITCrowd/Classes/ReviewViewController.m322680640#322680641#0(0"0(0#0#69"/Users/sanchitbareja/Documents/ITCrowd/Classes/ReviewViewController.m8613415968#1954"    cd /Users/sanchitbareja/Documents/ITCrowd    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/ITCrowd-generated-files.hmap -I/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/ITCrowd-own-target-headers.hmap -I/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/ITCrowd-all-target-headers.hmap -iquote /Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/ITCrowd-project-headers.hmap -F/Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator -I/Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/include -I/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/DerivedSources/i386 -I/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/DerivedSources -include /var/folders/oQ/oQspy2pnE4WrvHOIq2Su5k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ITCrowd_Prefix-aeddrpdklnuxafcmgjrqahrgianf/ITCrowd_Prefix.pch -c /Users/sanchitbareja/Documents/ITCrowd/Classes/ReviewViewController.m -o /Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/ReviewViewController.o0#
+
+CCompileC build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/SBJSON.o /Users/sanchitbareja/Documents/ITCrowd/JSON/SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321171635.632536
+e321171635.786546
+r1
+xCompileC
+xbuild/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/SBJSON.o
+x/Users/sanchitbareja/Documents/ITCrowd/JSON/SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/sanchitbareja/Documents/ITCrowd/JSON/SBJSON.m321171635#321171635#0(0"0(0#0#52"/Users/sanchitbareja/Documents/ITCrowd/JSON/SBJSON.m8677621760#1923"    cd /Users/sanchitbareja/Documents/ITCrowd    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/ITCrowd-generated-files.hmap -I/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/ITCrowd-own-target-headers.hmap -I/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/ITCrowd-all-target-headers.hmap -iquote /Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/ITCrowd-project-headers.hmap -F/Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator -I/Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/include -I/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/DerivedSources/i386 -I/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/DerivedSources -include /var/folders/oQ/oQspy2pnE4WrvHOIq2Su5k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ITCrowd_Prefix-aeddrpdklnuxafcmgjrqahrgianf/ITCrowd_Prefix.pch -c /Users/sanchitbareja/Documents/ITCrowd/JSON/SBJSON.m -o /Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/SBJSON.o0#
+
+CCompileC build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/SBJsonBase.o /Users/sanchitbareja/Documents/ITCrowd/JSON/SBJsonBase.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321171635.699142
+e321171635.815454
+r1
+xCompileC
+xbuild/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/SBJsonBase.o
+x/Users/sanchitbareja/Documents/ITCrowd/JSON/SBJsonBase.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/sanchitbareja/Documents/ITCrowd/JSON/SBJsonBase.m321171635#321171635#0(0"0(0#0#56"/Users/sanchitbareja/Documents/ITCrowd/JSON/SBJsonBase.m8676113504#1931"    cd /Users/sanchitbareja/Documents/ITCrowd    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/ITCrowd-generated-files.hmap -I/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/ITCrowd-own-target-headers.hmap -I/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/ITCrowd-all-target-headers.hmap -iquote /Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/ITCrowd-project-headers.hmap -F/Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator -I/Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/include -I/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/DerivedSources/i386 -I/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/DerivedSources -include /var/folders/oQ/oQspy2pnE4WrvHOIq2Su5k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ITCrowd_Prefix-aeddrpdklnuxafcmgjrqahrgianf/ITCrowd_Prefix.pch -c /Users/sanchitbareja/Documents/ITCrowd/JSON/SBJsonBase.m -o /Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/SBJsonBase.o0#
+
+CCompileC build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/SBJsonParser.o /Users/sanchitbareja/Documents/ITCrowd/JSON/SBJsonParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321171635.700773
+e321171635.904486
+r1
+xCompileC
+xbuild/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/SBJsonParser.o
+x/Users/sanchitbareja/Documents/ITCrowd/JSON/SBJsonParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/sanchitbareja/Documents/ITCrowd/JSON/SBJsonParser.m321171635#321171635#0(0"0(0#0#58"/Users/sanchitbareja/Documents/ITCrowd/JSON/SBJsonParser.m8670336064#1935"    cd /Users/sanchitbareja/Documents/ITCrowd    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/ITCrowd-generated-files.hmap -I/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/ITCrowd-own-target-headers.hmap -I/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/ITCrowd-all-target-headers.hmap -iquote /Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/ITCrowd-project-headers.hmap -F/Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator -I/Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/include -I/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/DerivedSources/i386 -I/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/DerivedSources -include /var/folders/oQ/oQspy2pnE4WrvHOIq2Su5k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ITCrowd_Prefix-aeddrpdklnuxafcmgjrqahrgianf/ITCrowd_Prefix.pch -c /Users/sanchitbareja/Documents/ITCrowd/JSON/SBJsonParser.m -o /Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/SBJsonParser.o0#
+
+CCompileC build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/SBJsonWriter.o /Users/sanchitbareja/Documents/ITCrowd/JSON/SBJsonWriter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321171635.706233
+e321171635.888812
+r1
+xCompileC
+xbuild/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/SBJsonWriter.o
+x/Users/sanchitbareja/Documents/ITCrowd/JSON/SBJsonWriter.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/sanchitbareja/Documents/ITCrowd/JSON/SBJsonWriter.m321171635#321171635#0(0"0(0#0#58"/Users/sanchitbareja/Documents/ITCrowd/JSON/SBJsonWriter.m8663160736#1935"    cd /Users/sanchitbareja/Documents/ITCrowd    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/ITCrowd-generated-files.hmap -I/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/ITCrowd-own-target-headers.hmap -I/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/ITCrowd-all-target-headers.hmap -iquote /Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/ITCrowd-project-headers.hmap -F/Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator -I/Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/include -I/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/DerivedSources/i386 -I/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/DerivedSources -include /var/folders/oQ/oQspy2pnE4WrvHOIq2Su5k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ITCrowd_Prefix-aeddrpdklnuxafcmgjrqahrgianf/ITCrowd_Prefix.pch -c /Users/sanchitbareja/Documents/ITCrowd/JSON/SBJsonWriter.m -o /Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/SBJsonWriter.o0#
+
+CCompileC build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/TourGuideViewController.o /Users/sanchitbareja/Documents/ITCrowd/Classes/TourGuideViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322680641.151138
+e322680641.293976
+r1
+xCompileC
+xbuild/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/TourGuideViewController.o
+x/Users/sanchitbareja/Documents/ITCrowd/Classes/TourGuideViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/sanchitbareja/Documents/ITCrowd/Classes/TourGuideViewController.m322680641#322680641#0(0"0(0#0#72"/Users/sanchitbareja/Documents/ITCrowd/Classes/TourGuideViewController.m8617965024#1960"    cd /Users/sanchitbareja/Documents/ITCrowd    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/ITCrowd-generated-files.hmap -I/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/ITCrowd-own-target-headers.hmap -I/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/ITCrowd-all-target-headers.hmap -iquote /Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/ITCrowd-project-headers.hmap -F/Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator -I/Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/include -I/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/DerivedSources/i386 -I/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/DerivedSources -include /var/folders/oQ/oQspy2pnE4WrvHOIq2Su5k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ITCrowd_Prefix-aeddrpdklnuxafcmgjrqahrgianf/ITCrowd_Prefix.pch -c /Users/sanchitbareja/Documents/ITCrowd/Classes/TourGuideViewController.m -o /Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/TourGuideViewController.o0#
+
+CCompileC build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/UploadFlyersViewController.o /Users/sanchitbareja/Documents/ITCrowd/Classes/UploadFlyersViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322680640.028975
+e322680641.161505
+r1
+xCompileC
+xbuild/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/UploadFlyersViewController.o
+x/Users/sanchitbareja/Documents/ITCrowd/Classes/UploadFlyersViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/sanchitbareja/Documents/ITCrowd/Classes/UploadFlyersViewController.m322680640#322680641#0(0"0(0#0#75"/Users/sanchitbareja/Documents/ITCrowd/Classes/UploadFlyersViewController.m8617593600#1966"    cd /Users/sanchitbareja/Documents/ITCrowd    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/ITCrowd-generated-files.hmap -I/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/ITCrowd-own-target-headers.hmap -I/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/ITCrowd-all-target-headers.hmap -iquote /Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/ITCrowd-project-headers.hmap -F/Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator -I/Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/include -I/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/DerivedSources/i386 -I/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/DerivedSources -include /var/folders/oQ/oQspy2pnE4WrvHOIq2Su5k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ITCrowd_Prefix-aeddrpdklnuxafcmgjrqahrgianf/ITCrowd_Prefix.pch -c /Users/sanchitbareja/Documents/ITCrowd/Classes/UploadFlyersViewController.m -o /Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/UploadFlyersViewController.o0#
+
+CCompileC build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/adsAnnotation.o /Users/sanchitbareja/Documents/ITCrowd/Classes/adsAnnotation.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322624685.511785
+e322624686.198356
+r1
+xCompileC
+xbuild/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/adsAnnotation.o
+x/Users/sanchitbareja/Documents/ITCrowd/Classes/adsAnnotation.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/sanchitbareja/Documents/ITCrowd/Classes/adsAnnotation.m322624685#322624686#0(0"0(0#0#62"/Users/sanchitbareja/Documents/ITCrowd/Classes/adsAnnotation.m8700589504#1940"    cd /Users/sanchitbareja/Documents/ITCrowd    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/ITCrowd-generated-files.hmap -I/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/ITCrowd-own-target-headers.hmap -I/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/ITCrowd-all-target-headers.hmap -iquote /Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/ITCrowd-project-headers.hmap -F/Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator -I/Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/include -I/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/DerivedSources/i386 -I/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/DerivedSources -include /var/folders/oQ/oQspy2pnE4WrvHOIq2Su5k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ITCrowd_Prefix-aeddrpdklnuxafcmgjrqahrgianf/ITCrowd_Prefix.pch -c /Users/sanchitbareja/Documents/ITCrowd/Classes/adsAnnotation.m -o /Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/adsAnnotation.o0#
+
+CCompileC build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/adsAnnotationView.o /Users/sanchitbareja/Documents/ITCrowd/Classes/adsAnnotationView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/adsCalloutView.o /Users/sanchitbareja/Documents/ITCrowd/Classes/adsCalloutView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321983772.037999
+e321983772.150123
+r1
+xCompileC
+xbuild/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/adsCalloutView.o
+x/Users/sanchitbareja/Documents/ITCrowd/Classes/adsCalloutView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/sanchitbareja/Documents/ITCrowd/Classes/adsCalloutView.m321983772#321983772#0(0"0(0#0#63"/Users/sanchitbareja/Documents/ITCrowd/Classes/adsCalloutView.m8665182816#1942"    cd /Users/sanchitbareja/Documents/ITCrowd    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/ITCrowd-generated-files.hmap -I/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/ITCrowd-own-target-headers.hmap -I/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/ITCrowd-all-target-headers.hmap -iquote /Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/ITCrowd-project-headers.hmap -F/Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator -I/Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/include -I/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/DerivedSources/i386 -I/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/DerivedSources -include /var/folders/oQ/oQspy2pnE4WrvHOIq2Su5k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ITCrowd_Prefix-aeddrpdklnuxafcmgjrqahrgianf/ITCrowd_Prefix.pch -c /Users/sanchitbareja/Documents/ITCrowd/Classes/adsCalloutView.m -o /Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/adsCalloutView.o0#
+
+CCompileC build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/asyncimageview.o /Users/sanchitbareja/Documents/ITCrowd/Classes/asyncimageview.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322680798.127894
+e322680798.272775
+r1
+xCompileC
+xbuild/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/asyncimageview.o
+x/Users/sanchitbareja/Documents/ITCrowd/Classes/asyncimageview.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/sanchitbareja/Documents/ITCrowd/Classes/asyncimageview.m322680798#322680798#0(0"0(0#0#63"/Users/sanchitbareja/Documents/ITCrowd/Classes/asyncimageview.m8612927168#1942"    cd /Users/sanchitbareja/Documents/ITCrowd    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/ITCrowd-generated-files.hmap -I/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/ITCrowd-own-target-headers.hmap -I/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/ITCrowd-all-target-headers.hmap -iquote /Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/ITCrowd-project-headers.hmap -F/Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator -I/Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/include -I/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/DerivedSources/i386 -I/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/DerivedSources -include /var/folders/oQ/oQspy2pnE4WrvHOIq2Su5k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ITCrowd_Prefix-aeddrpdklnuxafcmgjrqahrgianf/ITCrowd_Prefix.pch -c /Users/sanchitbareja/Documents/ITCrowd/Classes/asyncimageview.m -o /Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/asyncimageview.o0#
+
+CCompileC build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/eateriesViewController.o /Users/sanchitbareja/Documents/ITCrowd/Classes/eateriesViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/flyersViewController.o /Users/sanchitbareja/Documents/ITCrowd/Classes/flyersViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/main.o /Users/sanchitbareja/Documents/ITCrowd/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322633040.452418
+e322633041.833572
+r1
+xCompileC
+xbuild/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/main.o
+x/Users/sanchitbareja/Documents/ITCrowd/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/sanchitbareja/Documents/ITCrowd/main.m322633040#322633041#0(0"0(0#0#45"/Users/sanchitbareja/Documents/ITCrowd/main.m8734548640#1914"    cd /Users/sanchitbareja/Documents/ITCrowd    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/ITCrowd-generated-files.hmap -I/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/ITCrowd-own-target-headers.hmap -I/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/ITCrowd-all-target-headers.hmap -iquote /Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/ITCrowd-project-headers.hmap -F/Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator -I/Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/include -I/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/DerivedSources/i386 -I/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/DerivedSources -include /var/folders/oQ/oQspy2pnE4WrvHOIq2Su5k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ITCrowd_Prefix-aeddrpdklnuxafcmgjrqahrgianf/ITCrowd_Prefix.pch -c /Users/sanchitbareja/Documents/ITCrowd/main.m -o /Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/main.o0#
+
+CCompileC build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/reviewViewController.o /Users/sanchitbareja/Documents/ITCrowd/Classes/reviewViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/tourGuideViewController.o /Users/sanchitbareja/Documents/ITCrowd/Classes/tourGuideViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/uploadFlyersViewController.o /Users/sanchitbareja/Documents/ITCrowd/Classes/uploadFlyersViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB /Users/sanchitbareja/Documents/ITCrowd/MainWindow.xib
+s319634562.992284
+e319634563.368547
+r1
+xCompileXIB
+x/Users/sanchitbareja/Documents/ITCrowd/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib319634562#319634563#0(0"0(0#0#53"/Users/sanchitbareja/Documents/ITCrowd/MainWindow.xib8620513888#570"    cd /Users/sanchitbareja/Documents/ITCrowd    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/ITCrowd.app/MainWindow.nib /Users/sanchitbareja/Documents/ITCrowd/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/sanchitbareja/Documents/ITCrowd/eateries.xib
+s319727362.833228
+e319727363.993719
+r1
+xCompileXIB
+x/Users/sanchitbareja/Documents/ITCrowd/eateries.xib
+lSLF07#2@23"CompileXIB eateries.xib319727362#319727363#0(0"0(0#0#51"/Users/sanchitbareja/Documents/ITCrowd/eateries.xib8623659488#566"    cd /Users/sanchitbareja/Documents/ITCrowd    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/ITCrowd.app/eateries.nib /Users/sanchitbareja/Documents/ITCrowd/eateries.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/sanchitbareja/Documents/ITCrowd/flyers.xib
+s319727362.831093
+e319727364.017799
+r1
+xCompileXIB
+x/Users/sanchitbareja/Documents/ITCrowd/flyers.xib
+lSLF07#2@21"CompileXIB flyers.xib319727362#319727364#0(0"0(0#0#49"/Users/sanchitbareja/Documents/ITCrowd/flyers.xib8624772576#562"    cd /Users/sanchitbareja/Documents/ITCrowd    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/ITCrowd.app/flyers.nib /Users/sanchitbareja/Documents/ITCrowd/flyers.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/sanchitbareja/Documents/ITCrowd/review.xib
+s319727362.831771
+e319727364.027459
+r1
+xCompileXIB
+x/Users/sanchitbareja/Documents/ITCrowd/review.xib
+lSLF07#2@21"CompileXIB review.xib319727362#319727364#0(0"0(0#0#49"/Users/sanchitbareja/Documents/ITCrowd/review.xib8624371616#562"    cd /Users/sanchitbareja/Documents/ITCrowd    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/ITCrowd.app/review.nib /Users/sanchitbareja/Documents/ITCrowd/review.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/sanchitbareja/Documents/ITCrowd/tourGuide.xib
+s319727362.832377
+e319727364.017976
+r1
+xCompileXIB
+x/Users/sanchitbareja/Documents/ITCrowd/tourGuide.xib
+lSLF07#2@24"CompileXIB tourGuide.xib319727362#319727364#0(0"0(0#0#52"/Users/sanchitbareja/Documents/ITCrowd/tourGuide.xib8624062368#568"    cd /Users/sanchitbareja/Documents/ITCrowd    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/ITCrowd.app/tourGuide.nib /Users/sanchitbareja/Documents/ITCrowd/tourGuide.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/sanchitbareja/Documents/ITCrowd/uploadFlyers.xib
+s320409051.284311
+e320409051.631827
+r1
+xCompileXIB
+x/Users/sanchitbareja/Documents/ITCrowd/uploadFlyers.xib
+lSLF07#2@27"CompileXIB uploadFlyers.xib320409051#320409051#0(0"0(0#0#55"/Users/sanchitbareja/Documents/ITCrowd/uploadFlyers.xib8617951648#574"    cd /Users/sanchitbareja/Documents/ITCrowd    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/ITCrowd.app/uploadFlyers.nib /Users/sanchitbareja/Documents/ITCrowd/uploadFlyers.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/sanchitbareja/Documents/ITCrowd/uploadFlyersView.xib
+r0
+
+CCpResource "build/Debug-iphonesimulator/ITCrowd.app/Info banner.jpg" "Info banner.jpg"
+r0
+
+CCpResource build/Debug-iphonesimulator/ITCrowd.app/ITCrowdIcon.jpg ITCrowdIcon.jpg
+s322581429.913668
+e322581430.048188
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ITCrowd.app/ITCrowdIcon.jpg
+xITCrowdIcon.jpg
+lSLF07#2@20"Copy ITCrowdIcon.jpg322581429#322581430#0(0"0(0#0#54"/Users/sanchitbareja/Documents/ITCrowd/ITCrowdIcon.jpg8658915552#473"    cd /Users/sanchitbareja/Documents/ITCrowd    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sanchitbareja/Documents/ITCrowd/ITCrowdIcon.jpg /Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/ITCrowd.app0#
+
+CCpResource build/Debug-iphonesimulator/ITCrowd.app/ITCrowdLaunchImage.jpg ITCrowdLaunchImage.jpg
+s322581429.914501
+e322581430.049662
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ITCrowd.app/ITCrowdLaunchImage.jpg
+xITCrowdLaunchImage.jpg
+lSLF07#2@27"Copy ITCrowdLaunchImage.jpg322581429#322581430#0(0"0(0#0#61"/Users/sanchitbareja/Documents/ITCrowd/ITCrowdLaunchImage.jpg8658207424#480"    cd /Users/sanchitbareja/Documents/ITCrowd    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sanchitbareja/Documents/ITCrowd/ITCrowdLaunchImage.jpg /Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/ITCrowd.app0#
+
+CCpResource build/Debug-iphonesimulator/ITCrowd.app/InfoBanner.jpg InfoBanner.jpg
+s322670380.136674
+e322670380.203096
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ITCrowd.app/InfoBanner.jpg
+xInfoBanner.jpg
+lSLF07#2@19"Copy InfoBanner.jpg322670380#322670380#0(0"0(0#0#53"/Users/sanchitbareja/Documents/ITCrowd/InfoBanner.jpg8777721664#472"    cd /Users/sanchitbareja/Documents/ITCrowd    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sanchitbareja/Documents/ITCrowd/InfoBanner.jpg /Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/ITCrowd.app0#
+
+CCpResource build/Debug-iphonesimulator/ITCrowd.app/ads_icon_black_small.png ads_icon_black_small.png
+s322581429.915226
+e322581429.969901
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ITCrowd.app/ads_icon_black_small.png
+xads_icon_black_small.png
+lSLF07#2@29"Copy ads_icon_black_small.png322581429#322581429#0(0"0(0#0#63"/Users/sanchitbareja/Documents/ITCrowd/ads_icon_black_small.png8656670528#482"    cd /Users/sanchitbareja/Documents/ITCrowd    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sanchitbareja/Documents/ITCrowd/ads_icon_black_small.png /Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/ITCrowd.app0#
+
+CCpResource build/Debug-iphonesimulator/ITCrowd.app/advertising.png advertising.png
+s321983770.811963
+e321983770.836348
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ITCrowd.app/advertising.png
+xadvertising.png
+lSLF07#2@20"Copy advertising.png321983770#321983770#0(0"0(0#0#54"/Users/sanchitbareja/Documents/ITCrowd/advertising.png8662171232#473"    cd /Users/sanchitbareja/Documents/ITCrowd    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sanchitbareja/Documents/ITCrowd/advertising.png /Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/ITCrowd.app0#
+
+CCpResource build/Debug-iphonesimulator/ITCrowd.app/dollar.png "../../Desktop/ITCrowd Images/dollar.png"
+s319733247.660096
+e319733247.664937
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ITCrowd.app/dollar.png
+x../../Desktop/ITCrowd Images/dollar.png
+lSLF07#2@44"Copy ../../Desktop/ITCrowd Images/dollar.png319733247#319733247#0(0"0(0#0#78"/Users/sanchitbareja/Documents/ITCrowd/../../Desktop/ITCrowd Images/dollar.png8617525472#499"    cd /Users/sanchitbareja/Documents/ITCrowd    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/sanchitbareja/Documents/ITCrowd/../../Desktop/ITCrowd Images/dollar.png" /Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/ITCrowd.app0#
+
+CCpResource build/Debug-iphonesimulator/ITCrowd.app/eateries.png eateries.png
+s319728046.786591
+e319728046.795530
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ITCrowd.app/eateries.png
+xeateries.png
+lSLF07#2@17"Copy eateries.png319728046#319728046#0(0"0(0#0#51"/Users/sanchitbareja/Documents/ITCrowd/eateries.png8630182560#470"    cd /Users/sanchitbareja/Documents/ITCrowd    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sanchitbareja/Documents/ITCrowd/eateries.png /Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/ITCrowd.app0#
+
+CCpResource build/Debug-iphonesimulator/ITCrowd.app/flyers flyers
+r0
+
+CCpResource build/Debug-iphonesimulator/ITCrowd.app/flyers.png flyers.png
+s319732537.547806
+e319732537.553209
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ITCrowd.app/flyers.png
+xflyers.png
+lSLF07#2@15"Copy flyers.png319732537#319732537#0(0"0(0#0#49"/Users/sanchitbareja/Documents/ITCrowd/flyers.png8631850656#468"    cd /Users/sanchitbareja/Documents/ITCrowd    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sanchitbareja/Documents/ITCrowd/flyers.png /Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/ITCrowd.app0#
+
+CCpResource build/Debug-iphonesimulator/ITCrowd.app/flyers.xid flyers.xid
+r0
+
+CCpResource build/Debug-iphonesimulator/ITCrowd.app/good-and-bad.jpg good-and-bad.jpg
+r0
+
+CCpResource build/Debug-iphonesimulator/ITCrowd.app/icon-journals-xl.png icon-journals-xl.png
+r0
+
+CCpResource build/Debug-iphonesimulator/ITCrowd.app/img_up_arrow.gif img_up_arrow.gif
+r0
+
+CCpResource build/Debug-iphonesimulator/ITCrowd.app/info_icon_black_glossy_small.png info_icon_black_glossy_small.png
+s322581429.916134
+e322581429.994388
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ITCrowd.app/info_icon_black_glossy_small.png
+xinfo_icon_black_glossy_small.png
+lSLF07#2@37"Copy info_icon_black_glossy_small.png322581429#322581429#0(0"0(0#0#71"/Users/sanchitbareja/Documents/ITCrowd/info_icon_black_glossy_small.png8656111072#490"    cd /Users/sanchitbareja/Documents/ITCrowd    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sanchitbareja/Documents/ITCrowd/info_icon_black_glossy_small.png /Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/ITCrowd.app0#
+
+CCpResource build/Debug-iphonesimulator/ITCrowd.app/maps.gif maps.gif
+s319728046.783499
+e319728046.789804
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ITCrowd.app/maps.gif
+xmaps.gif
+lSLF07#2@13"Copy maps.gif319728046#319728046#0(0"0(0#0#47"/Users/sanchitbareja/Documents/ITCrowd/maps.gif8635554784#466"    cd /Users/sanchitbareja/Documents/ITCrowd    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sanchitbareja/Documents/ITCrowd/maps.gif /Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/ITCrowd.app0#
+
+CCpResource build/Debug-iphonesimulator/ITCrowd.app/maps.png maps.png
+s319732537.548506
+e319732537.553400
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ITCrowd.app/maps.png
+xmaps.png
+lSLF07#2@13"Copy maps.png319732537#319732537#0(0"0(0#0#47"/Users/sanchitbareja/Documents/ITCrowd/maps.png8630334240#466"    cd /Users/sanchitbareja/Documents/ITCrowd    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sanchitbareja/Documents/ITCrowd/maps.png /Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/ITCrowd.app0#
+
+CCpResource build/Debug-iphonesimulator/ITCrowd.app/monotone_fork_spoon_eat_launch_restaurant_dinner.png monotone_fork_spoon_eat_launch_restaurant_dinner.png
+r0
+
+CCpResource build/Debug-iphonesimulator/ITCrowd.app/navigation_icon_black_small.png navigation_icon_black_small.png
+s322581429.916839
+e322581429.969704
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ITCrowd.app/navigation_icon_black_small.png
+xnavigation_icon_black_small.png
+lSLF07#2@36"Copy navigation_icon_black_small.png322581429#322581429#0(0"0(0#0#70"/Users/sanchitbareja/Documents/ITCrowd/navigation_icon_black_small.png8652716096#489"    cd /Users/sanchitbareja/Documents/ITCrowd    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sanchitbareja/Documents/ITCrowd/navigation_icon_black_small.png /Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/ITCrowd.app0#
+
+CCpResource build/Debug-iphonesimulator/ITCrowd.app/rename.png rename.png
+r0
+
+CCpResource build/Debug-iphonesimulator/ITCrowd.app/review.jpg review.jpg
+s319728046.785040
+e319728046.795157
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ITCrowd.app/review.jpg
+xreview.jpg
+lSLF07#2@15"Copy review.jpg319728046#319728046#0(0"0(0#0#49"/Users/sanchitbareja/Documents/ITCrowd/review.jpg8635276928#468"    cd /Users/sanchitbareja/Documents/ITCrowd    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sanchitbareja/Documents/ITCrowd/review.jpg /Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/ITCrowd.app0#
+
+CCpResource build/Debug-iphonesimulator/ITCrowd.app/review.png review.png
+s319729509.614756
+e319729509.635786
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ITCrowd.app/review.png
+xreview.png
+lSLF07#2@15"Copy review.png319729509#319729509#0(0"0(0#0#49"/Users/sanchitbareja/Documents/ITCrowd/review.png8628352544#468"    cd /Users/sanchitbareja/Documents/ITCrowd    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sanchitbareja/Documents/ITCrowd/review.png /Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/ITCrowd.app0#
+
+CCpResource build/Debug-iphonesimulator/ITCrowd.app/upload.gif upload.gif
+s319728046.784254
+e319728046.792255
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ITCrowd.app/upload.gif
+xupload.gif
+lSLF07#2@15"Copy upload.gif319728046#319728046#0(0"0(0#0#49"/Users/sanchitbareja/Documents/ITCrowd/upload.gif8635774752#468"    cd /Users/sanchitbareja/Documents/ITCrowd    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sanchitbareja/Documents/ITCrowd/upload.gif /Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/ITCrowd.app0#
+
+CCpResource build/Debug-iphonesimulator/ITCrowd.app/upload.png upload.png
+s319732537.549154
+e319732537.554041
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ITCrowd.app/upload.png
+xupload.png
+lSLF07#2@15"Copy upload.png319732537#319732537#0(0"0(0#0#49"/Users/sanchitbareja/Documents/ITCrowd/upload.png8628143936#468"    cd /Users/sanchitbareja/Documents/ITCrowd    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sanchitbareja/Documents/ITCrowd/upload.png /Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/ITCrowd.app0#
+
+CGenerateDSYMFile /Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/ITCrowd.app.dSYM /Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/ITCrowd.app/ITCrowd
+s322680798.321727
+e322680798.356811
+r1
+xGenerateDSYMFile
+x/Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/ITCrowd.app.dSYM
+x/Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/ITCrowd.app/ITCrowd
+lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/ITCrowd.app.dSYM build/Debug-iphonesimulator/ITCrowd.app/ITCrowd322680798#322680798#0(0"0(0#0#86"/Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/ITCrowd.app/ITCrowd8617605984#383"    cd /Users/sanchitbareja/Documents/ITCrowd    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/ITCrowd.app/ITCrowd -o /Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/ITCrowd.app.dSYM0#
+
+CLd /Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/ITCrowd.app/ITCrowd normal i386
+s322680798.272900
+e322680798.321578
+r1
+xLd
+x/Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/ITCrowd.app/ITCrowd
+xnormal
+xi386
+lSLF07#2@91"Link /Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/ITCrowd.app/ITCrowd322680798#322680798#0(0"0(0#0#0"8618235136#942"    cd /Users/sanchitbareja/Documents/ITCrowd    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator -F/Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator -filelist /Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/Objects-normal/i386/ITCrowd.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework MapKit -framework CoreLocation -o /Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/ITCrowd.app/ITCrowd0#
+
+CProcessInfoPlistFile /Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/ITCrowd.app/Info.plist ITCrowd-Info.plist
+s322680640.022556
+e322680640.026820
+r1
+xProcessInfoPlistFile
+x/Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/ITCrowd.app/Info.plist
+xITCrowd-Info.plist
+lSLF07#2@26"Process ITCrowd-Info.plist322680640#322680640#0(0"0(0#0#57"/Users/sanchitbareja/Documents/ITCrowd/ITCrowd-Info.plist8617776832#479"    cd /Users/sanchitbareja/Documents/ITCrowd    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility ITCrowd-Info.plist -genpkginfo /Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/ITCrowd.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/ITCrowd.app/Info.plist0#
+
+CProcessPCH /var/folders/oQ/oQspy2pnE4WrvHOIq2Su5k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ITCrowd_Prefix-aeddrpdklnuxafcmgjrqahrgianf/ITCrowd_Prefix.pch.gch ITCrowd_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s319634563.368704
+e319634564.550039
+r1
+xProcessPCH
+x/var/folders/oQ/oQspy2pnE4WrvHOIq2Su5k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ITCrowd_Prefix-aeddrpdklnuxafcmgjrqahrgianf/ITCrowd_Prefix.pch.gch
+xITCrowd_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile ITCrowd_Prefix.pch319634563#319634564#0(0"0(0#0#57"/Users/sanchitbareja/Documents/ITCrowd/ITCrowd_Prefix.pch8620844608#1806"    cd /Users/sanchitbareja/Documents/ITCrowd    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/ITCrowd-generated-files.hmap -I/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/ITCrowd-own-target-headers.hmap -I/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/ITCrowd-all-target-headers.hmap -iquote /Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/ITCrowd-project-headers.hmap -F/Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator -I/Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/include -I/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/DerivedSources/i386 -I/Users/sanchitbareja/Documents/ITCrowd/build/ITCrowd.build/Debug-iphonesimulator/ITCrowd.build/DerivedSources -c /Users/sanchitbareja/Documents/ITCrowd/ITCrowd_Prefix.pch -o /var/folders/oQ/oQspy2pnE4WrvHOIq2Su5k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ITCrowd_Prefix-aeddrpdklnuxafcmgjrqahrgianf/ITCrowd_Prefix.pch.gch0#
+
+CTouch /Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/ITCrowd.app
+s322680798.356915
+e322680798.359507
+r1
+xTouch
+x/Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/ITCrowd.app
+lSLF07#2@84"Touch /Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/ITCrowd.app322680798#322680798#0(0"0(0#0#0"8617504224#278"    cd /Users/sanchitbareja/Documents/ITCrowd    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/sanchitbareja/Documents/ITCrowd/build/Debug-iphonesimulator/ITCrowd.app0#
+
